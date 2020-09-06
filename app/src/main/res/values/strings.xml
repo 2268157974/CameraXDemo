@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CameraX_example</string>
+    <string name="camera_change">camera_change</string>
+    <string name="camera_take">camera_take</string>
+    <string name="camera_photo">camera_photo</string>
+</resources>
