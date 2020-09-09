@@ -380,6 +380,7 @@ public class CameraFragment extends Fragment implements View.OnTouchListener {
         mImageAnalysisExecutor.shutdown();
         mImageAnalysisExecutor.shutdown();
         mVideoExecutor.shutdown();
+        mFocusExecutor.shutdown();
     }
 
 
